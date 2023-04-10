@@ -3,13 +3,13 @@ By: Priya Hariharan and Alia Yusaini
 
 **Summary of Research Questions and Results:**
 1. Is colorism present in the modeling industry? Does Vogue prefer lighter skin color models compared to darker skin-colored models on their magazine covers?
-  - To some extent, we believe that colorism is still present in the modeling industry seeing as there is a trend for Vogue using lighter skinned models. 
+-To some extent, we believe that colorism is still present in the modeling industry seeing as there is a trend for Vogue using lighter skinned models. 
 
 2. How has time changed the preference for skin color in the modeling industry? What is the preference for the skin color of the Vogue magazine models over time? When did this change begin happening?
-  - Our graph depicts more lighter colored models being used overall, especially in the years 2004 and 2013. 
+-Our graph depicts more lighter colored models being used overall, especially in the years 2004 and 2013. 
 
 3. Is the modeling industry diverse, or do they just seem that way?
-  - Of the most popular Vogue models, what is the most prominent skin tone and how does this compare to the skin tone preference over time? Does this indicate that Vogue is using lighter skin colored models over time and just having models of darker skin tones as a “token” for diversity? 
+-Of the most popular Vogue models, what is the most prominent skin tone and how does this compare to the skin tone preference over time? Does this indicate that Vogue is using lighter skin colored models over time and just having models of darker skin tones as a “token” for diversity? 
 
 
 **Motivation:**
