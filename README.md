@@ -6,23 +6,23 @@ By: Priya Hariharan and Alia Yusaini
    - To some extent, we believe that colorism is still present in the modeling industry seeing as there is a trend for Vogue using lighter skinned models. 
 
 2. How has time changed the preference for skin color in the modeling industry? What is the preference for the skin color of the Vogue magazine models over time? When did this change begin happening?
--Our graph depicts more lighter colored models being used overall, especially in the years 2004 and 2013. 
+   - Our graph depicts more lighter colored models being used overall, especially in the years 2004 and 2013. 
 
 3. Is the modeling industry diverse, or do they just seem that way?
--Of the most popular Vogue models, what is the most prominent skin tone and how does this compare to the skin tone preference over time? Does this indicate that Vogue is using lighter skin colored models over time and just having models of darker skin tones as a “token” for diversity? 
+   - Of the most popular Vogue models, what is the most prominent skin tone and how does this compare to the skin tone preference over time? Does this indicate that Vogue is using lighter skin colored models over time and just having models of darker skin tones as a “token” for diversity? 
 
 
 **Motivation:**
 1. Is colorism present in the modeling industry?
-- In our society today, there is a vast amount of issues concerning race due to racism that is targeted towards people of color. The modeling industry has had many issues surrounding representation, so by tackling this question we can see whether this statement is unfounded or not. 
+   - In our society today, there is a vast amount of issues concerning race due to racism that is targeted towards people of color. The modeling industry has had many issues surrounding representation, so by tackling this question we can see whether this statement is unfounded or not. 
 
 
 2. How has time changed preference for skin color in the modeling industry? 
-  - As time progresses, our society has been more accepting of diversity and most entertainment industries have taken some steps to promote diversity. These questions look at the trend over time to see if this change took place and whether lighter skinned models are more sought after. 
+   - As time progresses, our society has been more accepting of diversity and most entertainment industries have taken some steps to promote diversity. These questions look at the trend over time to see if this change took place and whether lighter skinned models are more sought after. 
 
 
 3. Is the modeling industry diverse, or do they just seem that way?
-  - Many organizations have issues with using diversity as a tool for their own success. If the modeling industry is the same way, that could give us a lot of insight into what their true motivations are and whether it is ethical or not. By knowing whether diversity is used instrumentally, we can see how people of color are impacted. 
+   - Many organizations have issues with using diversity as a tool for their own success. If the modeling industry is the same way, that could give us a lot of insight into what their true motivations are and whether it is ethical or not. By knowing whether diversity is used instrumentally, we can see how people of color are impacted. 
 
 
 **Dataset:**
