@@ -2,36 +2,35 @@ An Analysis of Vogue Models
 By: Priya Hariharan and Alia Yusaini
 
 **Summary of Research Questions and Results:**
-Is colorism present in the modeling industry? Does Vogue prefer lighter skin color models compared to darker skin-colored models on their magazine covers?
-To some extent, we believe that colorism is still present in the modeling industry seeing as there is a trend for Vogue using lighter skinned models. 
+1. Is colorism present in the modeling industry? Does Vogue prefer lighter skin color models compared to darker skin-colored models on their magazine covers?
+- To some extent, we believe that colorism is still present in the modeling industry seeing as there is a trend for Vogue using lighter skinned models. 
+
+2. How has time changed the preference for skin color in the modeling industry? What is the preference for the skin color of the Vogue magazine models over time? When did this change begin happening?
+- Our graph depicts more lighter colored models being used overall, especially in the years 2004 and 2013. 
+
+3. Is the modeling industry diverse, or do they just seem that way?
+- Of the most popular Vogue models, what is the most prominent skin tone and how does this compare to the skin tone preference over time? Does this indicate that Vogue is using lighter skin colored models over time and just having models of darker skin tones as a “token” for diversity? 
 
 
-How has time changed the preference for skin color in the modeling industry? What is the preference for the skin color of the Vogue magazine models over time? When did this change begin happening?
-Our graph depicts more lighter colored models being used overall, especially in the years 2004 and 2013. 
+**Motivation:**
+1. Is colorism present in the modeling industry?
+- In our society today, there is a vast amount of issues concerning race due to racism that is targeted towards people of color. The modeling industry has had many issues surrounding representation, so by tackling this question we can see whether this statement is unfounded or not. 
 
 
-Is the modeling industry diverse, or do they just seem that way? Of the most popular Vogue models, what is the most prominent skin tone and how does this compare to the skin tone preference over time? Does this indicate that Vogue is using lighter skin colored models over time and just having models of darker skin tones as a “token” for diversity? 
-Motivation:
-Is colorism present in the modeling industry?
-In our society today, there is a vast amount of issues concerning race due to racism that is targeted towards people of color. The modeling industry has had many issues surrounding representation, so by tackling this question we can see whether this statement is unfounded or not. 
+2. How has time changed preference for skin color in the modeling industry? 
+- As time progresses, our society has been more accepting of diversity and most entertainment industries have taken some steps to promote diversity. These questions look at the trend over time to see if this change took place and whether lighter skinned models are more sought after. 
 
 
-How has time changed preference for skin color in the modeling industry? 
-As time progresses, our society has been more accepting of diversity and most entertainment industries have taken some steps to promote diversity. These questions look at the trend over time to see if this change took place and whether lighter skinned models are more sought after. 
+3. Is the modeling industry diverse, or do they just seem that way?
+- Many organizations have issues with using diversity as a tool for their own success. If the modeling industry is the same way, that could give us a lot of insight into what their true motivations are and whether it is ethical or not. By knowing whether diversity is used instrumentally, we can see how people of color are impacted. 
 
 
-Is the modeling industry diverse, or do they just seem that way?
-Many organizations have issues with using diversity as a tool for their own success. If the modeling industry is the same way, that could give us a lot of insight into what their true motivations are and whether it is ethical or not. By knowing whether diversity is used instrumentally, we can see how people of color are impacted. 
+**Dataset:**
+- The link we are using is from a GitHub repository called The Pudding Database. The exact link to our dataset is [The Vogue Dataset](https://github.com/the-pudding/data/tree/master/vogue).  
+- We’re merging 2 datasets; faces.csv and models.csv. Faces.csv contains the name of the model, the skin tone, the lightness value of the skin tone, and the date that the models appear on the cover. Models.csv contains the name of the model, the skin tone, the lightness value of the skin tone, and the frequency that the model appears on the Vogue cover from January 2000 to December 2018.
 
 
-Dataset:
-The link we are using is from a GitHub repository called The Pudding Database. The exact link to our dataset is The Vogue Dataset.  
-We’re merging 2 datasets; faces.csv and models.csv. Faces.csv contains the name of the model, the skin tone, the lightness value of the skin tone, and the date that the models appear on the cover. Models.csv contains the name of the model, the skin tone, the lightness value of the skin tone, and the frequency that the model appears on the Vogue cover from January 2000 to December 2018.
-
-
-
-
-Method:
+**Method:**
 
 1. Install and import pyplot and pandas.
 
